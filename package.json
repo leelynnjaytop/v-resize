@@ -1,0 +1,20 @@
+{
+  "name": "lljtop-v-resize",
+  "version": "1.0.0",
+  "description": "vue-resize-package",
+  "main": "dist/lljtop-v-resize.umd.js",
+  "module": "dist/lljtop-v-resize.mjs",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "lilinjie",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.3.5",
+    "vue": "^3.4.36"
+  }
+}
